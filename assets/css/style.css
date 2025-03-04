@@ -244,7 +244,7 @@ html {
         display: flex;
         flex-direction: column;
         list-style: none;
-        background-color: var(--moradoClaro);
+        background-color: var(--moradoOscuro);
         align-items: center;
         text-align: center;
 
